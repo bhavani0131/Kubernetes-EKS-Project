@@ -82,7 +82,7 @@ app.get('/', (req, res) => {
       </div>
       <div class="info-box">
         <div class="info-label">App Version</div>
-        <div class="info-value">v1</div>
+        <div class="info-value">v3</div>
       </div>
       <div class="info-box">
         <div class="info-label">Platform</div>
